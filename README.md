@@ -1,4 +1,4 @@
-## Projeto GitFindi ##
+## Projeto GitFind ##
 
 
 ## Projeto desenvolvido por DevGsBraga, com suporte e mentoria da DIO.
