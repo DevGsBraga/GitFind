@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #1d2128;
+}
+
+
+hr {
+  background-color: #f77300;
+  border: 1px solid #f58300;
+  max-width: 85%;
+}

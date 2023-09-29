@@ -1,0 +1,93 @@
+.background {
+    position: relative;
+
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+
+
+
+.foto-de-fundo {
+    position: absolute;
+    left: 0;
+    height: 100vh;
+}
+
+.conteudo {
+    width: 60%;
+    margin-right: 50px;
+    margin-top: 40px;
+    color: orange;
+}
+
+input {
+    width: 400px;
+    padding: 10px;
+    border-radius: 15px;
+    color: orange;
+    background-color: #2d333b;
+    border: 1px solid orange;
+}
+
+input:focus {
+    outline: none;
+}
+
+button {
+    width: 120px;
+    height: 38px;
+
+    border:1px solid orange;
+    border-radius: 15px;
+
+    background-color: #2d333b;
+    color: #ccccccb0;
+
+    margin-left: 10px;
+
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgba(255, 166, 0, 0.763);
+    color: black;
+    border: 1px solid black;
+    transition: .3s linear;
+}
+
+
+.photoPerfil {
+    display: flex;
+    margin: 75px 0;
+}
+
+.photoPerfil > img {
+    width: 120px;
+    border-radius: 50%;
+}
+
+.profileName {
+    padding-left: 13px;
+    padding-top: 10px;
+}
+
+.profileName > p {
+    font-size: 14px;
+}
+
+.descricao {
+    margin: 25px 0;
+    color: yellow;
+}
+
+.resultado-repositorio {
+    margin: 30px 0;
+}
+
+.titulo-repositorio {
+    font-size: 32px;
+    color: rgba(203, 134, 4, 0.753);
+    margin: 12px 0;
+    padding-left:15rem ;
+}

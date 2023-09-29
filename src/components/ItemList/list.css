@@ -1,0 +1,17 @@
+.item-lista {
+    margin: 40px 0;
+}
+
+
+
+
+.item-lista > strong {
+    font-size: 22px;
+    color: bisque;
+}
+
+.item-lista > p {
+    font-size: 14px;
+    margin-top: 7px;
+    margin-bottom: 20px;
+}
